@@ -9,11 +9,7 @@ This project focuses on developing a secure mobile health app. Key tasks include
 - Integration of machine learning for text recognition from medical documents.
 
 ## Instructions
-1. **Build and Set Up**:
-   - Familiarize yourself with Android Studio and Firebase integration.
-   - Follow Android developer guides and Firebase documentation.
-
-2. **Tasks**:
+1. **Tasks**:
    - Implement registration, authentication, and profile management.
    - Develop secure medical record storage with encryption.
    - Create proximity-based sharing using Google Nearby APIs.
